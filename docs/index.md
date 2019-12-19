@@ -3,6 +3,7 @@
 
 本网站主要展现广联达产品的技术参数、实施安装指导文档，及时快捷准确的传播这些资料。
 
+<div id="header" style="background-color:#FFA500;">
 <h1 style="margin-bottom:0;">产品列表</h1></div>
 <br>
 <div id="menu" style="height:200px;width:170px;float:left;">

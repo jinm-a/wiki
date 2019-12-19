@@ -1,17 +1,44 @@
-# Welcome to MkDocs
+# 广联达产品技术文档
+## 学习、创新、协助
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+本网站主要展现广联达产品的技术参数、实施安装指导文档，及时快捷准确的传播这些资料。
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<h1 style="margin-bottom:0;">产品列表</h1></div>
+<br>
+<div id="menu" style="height:200px;width:170px;float:left;">
+    <center>
+        <img src=img/投屏宝.png alt="some_text"><br>
+        <a href="投屏宝"> 投屏宝 </a>
+    </center>
+</div>
+<div id="menu" style="height:200px;width:170px;float:left;">
+    <center>
+        <img src=img/投屏宝.png alt="some_text"><br>
+        投屏宝
+    </center>
+</div>
+<div id="menu" style="height:200px;width:170px;float:left;">
+    <center>
+        <img src=img/投屏宝.png alt="some_text"><br>
+        投屏宝
+    </center>
+</div>
+<div id="menu" style="height:200px;width:170px;float:left;">
+    <center>
+        <img src=img/投屏宝.png alt="some_text"><br>
+        投屏宝
+    </center>
+</div>
+<div id="menu" style="height:200px;width:170px;float:left;">
+    <center>
+        <img src=img/投屏宝.png alt="some_text"><br>
+        投屏宝
+    </center>
+</div>
+<div id="menu" style="height:200px;width:170px;float:left;">
+    <center>
+        <img src=img/投屏宝.png alt="some_text"><br>
+        投屏宝
+    </center>
+</div>
+</div>

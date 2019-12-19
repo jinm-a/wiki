@@ -1,5 +1,6 @@
 site_name: 广联达产品技术文档
 nav:
-    - Home: index.md
-    - About: about.md
+    - 主页: index.md
+    - 投屏宝: 投屏宝.md
+    - 关于: 关于.md
 theme: readthedocs

@@ -12,34 +12,8 @@
         <a href="投屏宝"> 投屏宝 </a>
     </center>
 </div>
-<div id="menu" style="height:200px;width:170px;float:left;">
-    <center>
-        <img src=img/投屏宝.png alt="some_text"><br>
-        投屏宝
-    </center>
 </div>
-<div id="menu" style="height:200px;width:170px;float:left;">
-    <center>
-        <img src=img/投屏宝.png alt="some_text"><br>
-        投屏宝
-    </center>
-</div>
-<div id="menu" style="height:200px;width:170px;float:left;">
-    <center>
-        <img src=img/投屏宝.png alt="some_text"><br>
-        投屏宝
-    </center>
-</div>
-<div id="menu" style="height:200px;width:170px;float:left;">
-    <center>
-        <img src=img/投屏宝.png alt="some_text"><br>
-        投屏宝
-    </center>
-</div>
-<div id="menu" style="height:200px;width:170px;float:left;">
-    <center>
-        <img src=img/投屏宝.png alt="some_text"><br>
-        投屏宝
-    </center>
-</div>
-</div>
+
+<br/>
+
+产品资料持续更新，敬请期待！

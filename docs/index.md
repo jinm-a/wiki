@@ -9,7 +9,7 @@
 <div id="menu" style="height:200px;width:170px;float:left;">
     <center>
         <img src=img/投屏宝.png alt="some_text"><br>
-        <a href="投屏宝"> 投屏宝 </a>
+        <a href="投屏宝规格说明书"> 投屏宝</a>
     </center>
 </div>
 </div>

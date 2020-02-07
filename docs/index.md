@@ -9,30 +9,37 @@
 
 <br>
 
-<div id="menu" style="width:240px;float:left;">
+<div id="menu" style="width:230px;float:left;">
     <center>
-        <img src=img/投屏宝.png alt="some_text"><br>
+        <img src=img/投屏宝.png alt="稍等..."><br>
         <a href="投屏宝/投屏宝规格说明书"> 投屏宝</a>
     </center>
 </div>
 
-<div id="menu" style="width:240px;float:left;">
+<div id="menu" style="width:230px;float:left;">
     <center>
-        <img src=img/工地宝.png alt="some_text"><br>
+        <img src=img/工地宝.png alt="稍等..."><br>
         <a href="工地宝/工地宝用户手册"> 工地宝</a>
     </center>
 </div>
 
-<div id="menu" style="width:240px;float:left;">
+<div id="menu" style="width:230px;float:left;">
     <center>
-        <img src=img/闸机宝.png alt="some_text"><br>
+        <img src=img/闸机宝.png alt="稍等..."><br>
         <a href="闸机宝/闸机宝用户手册"> 闸机宝</a>
     </center>
 </div>
 
-<div id="menu" style="width:240px;float:left;">
+<div id="menu" style="width:230px;float:left;">
     <center>
-        <img src=img/速登宝_肯麦思.png alt="some_text"><br>
+        <img src=img/速登宝_肯麦思.png alt="稍等..."><br>
         <a href="速登宝/速登宝规格书_肯麦思"> 速登宝(肯麦思)</a>
+    </center>
+</div>
+
+<div id="menu" style="width:230px;float:left;">
+    <center>
+        <img src=img/人脸识别_宇泛.png alt="稍等..."><br>
+        <a href="人脸识别/人脸识别规格书_宇泛"> 人脸识别(宇泛)</a>
     </center>
 </div>

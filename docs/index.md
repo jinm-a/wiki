@@ -43,3 +43,10 @@
         <a href="人脸识别/人脸识别规格书_宇泛"> 人脸识别(宇泛)</a>
     </center>
 </div>
+
+<div id="menu" style="width:230px;float:left;">
+    <center>
+        <img src=img/测温宝.jpg alt="稍等..."><br>
+        <a href="测温宝/测温宝用户手册"> 测温宝</a>
+    </center>
+</div>
